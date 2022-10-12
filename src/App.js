@@ -1,11 +1,11 @@
 import 'bootstrap/dist/css/bootstrap.min.css'
-import BasicForm from "./components/DynamoForm";
+import DymForm from "./components/DymForm";
 
 function App() {
 
   return (
       <main>
-        <BasicForm />
+        <DymForm />
       </main>
   );
 }
